@@ -1,0 +1,14 @@
+/* 
+  Localizable.strings
+  login
+
+  Created by juan camilo on 11/08/24.
+  
+*/
+
+
+"register" = "Register";
+"login" = "Login";
+"email" = "Email";
+"password" = "Password";
+"reset_password" = "Reset Password";
